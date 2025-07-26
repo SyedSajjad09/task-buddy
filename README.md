@@ -6,7 +6,7 @@
 
 ## Features
 
-- 📄 Paste text or upload PDF
+- 📄 upload your syllabus
 - 📆 Select your own timeline (1–365 days)
 - ✅ Track task completion
 - ✏️ Edit or delete tasks
@@ -39,3 +39,5 @@ npm install
 
 # Start development server
 npm run dev
+
+live link: https://syeds-taskbuddy.vercel.app/
