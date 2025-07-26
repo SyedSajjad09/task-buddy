@@ -23,9 +23,13 @@
 - **TypeScript**
 - **Tailwind CSS**
 - **ShadCN UI**
-- **LocalStorage**
+
 
 ---
+
+## Live Link
+
+https://syeds-taskbuddy.vercel.app/
 
 ## 🚀 Run Locally
 
@@ -40,4 +44,4 @@ npm install
 # Start development server
 npm run dev
 
-live link: https://syeds-taskbuddy.vercel.app/
+
